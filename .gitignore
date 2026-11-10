@@ -1,0 +1,11 @@
+# large or generated files
+*.bin
+*.img
+*.trx
+*.squashfs
+_extracted/
+*_extract/
+reports/
+*.log
+.env
+__pycache__/
