@@ -5,7 +5,7 @@ Capture and analyse core protocol traffic so I can explain what each packet show
 
 ## Setup
 - Kali Linux VM (VirtualBox), Wireshark on `eth0`
-- Notes: my IP `____`, gateway `____`
+- Notes: NAT IP `10.0.2.15/24`, gateway `10.0.2.2`; host-only IP `192.168.56.2/24`
 
 ## Captures
 | # | Test | Command | Filter | pcap file | Findings |
