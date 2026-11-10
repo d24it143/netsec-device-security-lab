@@ -33,3 +33,10 @@ grep "Failed password" /var/log/auth.log | awk '{for(i=1;i<=NF;i++) if($i=="from
 
 ## Hardening basics
 - Patch, remove unused services, SSH keys only, default-deny firewall, least-privilege sudo, auditd, remote logging.
+
+## Additional commands practised
+- `getent passwd alice` and `getent group devs`: look up users and groups.
+- `stat -c "%a %A %n" f.txt`: display file permissions.
+- `getcap -r / 2>/dev/null`: find files with Linux capabilities.
+- `ip neigh`: inspect network neighbours and cached MAC addresses.
+
