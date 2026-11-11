@@ -12,8 +12,8 @@ Status is updated honestly: **Planned**, **In progress** or **Done** (done means
 
 | # | Folder | What it covers | Status |
 |---|---|---|---|
-| 1 | [01-networking-wireshark](01-networking-wireshark) | TCP/IP, DNS, ARP, ICMP, TLS captured and analysed in Wireshark | Planned |
-| 2 | [02-linux-fundamentals](02-linux-fundamentals) | Permissions, users, processes, logs, command cheat sheet | Planned |
+| 1 | [01-networking-wireshark](01-networking-wireshark) | TCP/IP, DNS, ARP, ICMP, TLS captured and analysed in Wireshark | Done |
+| 2 | [02-linux-fundamentals](02-linux-fundamentals) | Permissions, users, processes, logs, command cheat sheet | Done |
 | 3 | [03-bash-security-toolkit](03-bash-security-toolkit) | Bash/Python scripts: failed-login monitor, Nmap wrapper, integrity checker, port audit, backup | Planned |
 | 4 | [04-network-attacks-defences](04-network-attacks-defences) | Nmap, ARP spoofing, SYN flood, iptables, SSH hardening in a lab | Planned |
 | 5 | [05-crypto-tls](05-crypto-tls) | OpenSSL, hashing, TLS handshake, cipher/cert testing | Planned |
